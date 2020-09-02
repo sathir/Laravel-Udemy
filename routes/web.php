@@ -19,5 +19,3 @@ Route::get('/',function(){
 });
 
 Route::get('todos','TodosController@index');
-
-//Test  
